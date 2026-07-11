@@ -11,3 +11,7 @@ if you have chat you can type these commands into chat to see some cool emotes:
 - /e dance1
 - /e dance2
 - /e dance3
+
+- <img width="1270" height="742" alt="image" src="https://github.com/user-attachments/assets/82484685-48b9-4a92-926d-9234a8cbc3cb" />
+<img width="1252" height="800" alt="image" src="https://github.com/user-attachments/assets/8de4993f-2630-49fe-aaa2-3d6c3b9f3f06" />
+
